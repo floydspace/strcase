@@ -1,8 +1,8 @@
 # strcase
-[![Godoc Reference](https://godoc.org/github.com/iancoleman/strcase?status.svg)](http://godoc.org/github.com/iancoleman/strcase)
-[![Build Status](https://travis-ci.org/iancoleman/strcase.svg)](https://travis-ci.org/iancoleman/strcase)
-[![Coverage](http://gocover.io/_badge/github.com/iancoleman/strcase?0)](http://gocover.io/github.com/iancoleman/strcase)
-[![Go Report Card](https://goreportcard.com/badge/github.com/iancoleman/strcase)](https://goreportcard.com/report/github.com/iancoleman/strcase)
+[![Godoc Reference](https://godoc.org/github.com/floydspace/strcase?status.svg)](http://godoc.org/github.com/floydspace/strcase)
+[![Build Status](https://travis-ci.org/floydspace/strcase.svg)](https://travis-ci.org/floydspace/strcase)
+[![Coverage](http://gocover.io/_badge/github.com/floydspace/strcase?0)](http://gocover.io/github.com/floydspace/strcase)
+[![Go Report Card](https://goreportcard.com/badge/github.com/floydspace/strcase)](https://goreportcard.com/report/github.com/floydspace/strcase)
 
 strcase is a go package for converting string case to various cases (e.g. [snake case](https://en.wikipedia.org/wiki/Snake_case) or [camel case](https://en.wikipedia.org/wiki/CamelCase)) to see the full conversion table below.
 
@@ -27,5 +27,5 @@ s := "AnyKind of_string"
 ## Install
 
 ```bash
-go get -u github.com/iancoleman/strcase
+go get -u github.com/floydspace/strcase
 ```
